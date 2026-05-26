@@ -919,3 +919,6 @@ To everyone who has opened a PR, filed an issue, started a Discussion, or simply
 Made with ❤️ by the community, for the community
 
 </div>
+
+## Contributing
+PRs welcome!
