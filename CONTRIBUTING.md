@@ -426,3 +426,6 @@ Your contributions make The Agency better for everyone. Whether you're:
 Made with ❤️ by the community
 
 </div>
+
+## Contributors
+- Documentation improvements (2026)
